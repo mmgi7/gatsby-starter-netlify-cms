@@ -12,7 +12,7 @@ tags:
 # Slide 1
 
 ![flavor wheel](/img/flavor_wheel.jpg)
-![flavor wheel](http://placekitten.com/g/200/300)
+![flavor wheel](https://placekitten.com/g/200/300)
 
 ## Caption text:
 
